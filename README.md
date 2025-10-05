@@ -45,4 +45,4 @@ A digital marketing specialist reviews the findings to optimize ad spend:
 2.	They note that Females convert better (30.00% Conversion Rate).
 3.	Action: The specialist decides to allocate a larger portion of the budget to acquisition campaigns targeting the female demographic, while setting up a retargeting campaign for males who linger in the funnel to push them toward the final purchase.
 
-![image_alt]()
+![image_alt](https://github.com/apurbadas2311/Yes-Mobiles-E-Commerce-Funnel-Analysis/blob/main/YesMobile(Dashboard).png)
